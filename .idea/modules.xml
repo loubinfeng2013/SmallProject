@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SmallProject.iml" filepath="$PROJECT_DIR$/SmallProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.alarmbox/app.alarmbox.iml" filepath="$PROJECT_DIR$/app.alarmbox/app.alarmbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.cctv/app.cctv.iml" filepath="$PROJECT_DIR$/app.cctv/app.cctv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.door/app.door.iml" filepath="$PROJECT_DIR$/app.door/app.door.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.main/app.main.iml" filepath="$PROJECT_DIR$/app.main/app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.logic/lib.logic.iml" filepath="$PROJECT_DIR$/lib.logic/lib.logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logic2/logic2.iml" filepath="$PROJECT_DIR$/logic2/logic2.iml" />
+    </modules>
+  </component>
+</project>

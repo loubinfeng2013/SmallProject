@@ -1,0 +1,1 @@
+include ':app', ':app.main', ':app.cctv', ':app.door', ':app.alarmbox', ':lib.logic', ':logic2'

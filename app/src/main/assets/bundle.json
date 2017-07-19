@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "com.example.appmain"
+    },
+    {
+      "uri": "cctv",
+      "pkg": "com.example.appcctv"
+    },
+    {
+      "uri": "door",
+      "pkg": "com.example.appdoor"
+    },
+    {
+      "uri": "alarmbox",
+      "pkg": "com.example.appalarmbox",
+      "rules":{
+        "other":"Other"
+      }
+    },
+    {
+      "pkg": "com.example.liblogic"
+    },
+    {
+      "pkg": "com.example.logic2",
+      "type": "lib"
+    }
+  ]
+}
